@@ -1,0 +1,30 @@
+[15-Nov-2019 15:24:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/platzixy/public_html/edit/index.php:11
+Stack trace:
+#0 /home/platzixy/public_html/edit/index.php(7): edit->returnAllContent(NULL)
+#1 {main}
+  thrown in /home/platzixy/public_html/edit/index.php on line 11
+[15-Nov-2019 15:25:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/platzixy/public_html/edit/index.php:11
+Stack trace:
+#0 /home/platzixy/public_html/edit/index.php(7): edit->returnAllContent(NULL)
+#1 {main}
+  thrown in /home/platzixy/public_html/edit/index.php on line 11
+[15-Nov-2019 15:26:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/platzixy/public_html/edit/index.php:11
+Stack trace:
+#0 /home/platzixy/public_html/edit/index.php(7): edit->returnAllContent(NULL)
+#1 {main}
+  thrown in /home/platzixy/public_html/edit/index.php on line 11
+[15-Nov-2019 15:26:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/platzixy/public_html/edit/index.php:11
+Stack trace:
+#0 /home/platzixy/public_html/edit/index.php(7): edit->returnAllContent(NULL)
+#1 {main}
+  thrown in /home/platzixy/public_html/edit/index.php on line 11
+[15-Nov-2019 15:32:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/platzixy/public_html/edit/index.php:11
+Stack trace:
+#0 /home/platzixy/public_html/edit/index.php(7): edit->returnAllContent(NULL)
+#1 {main}
+  thrown in /home/platzixy/public_html/edit/index.php on line 11
+[15-Nov-2019 15:33:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/platzixy/public_html/edit/index.php:11
+Stack trace:
+#0 /home/platzixy/public_html/edit/index.php(7): edit->returnAllContent(NULL)
+#1 {main}
+  thrown in /home/platzixy/public_html/edit/index.php on line 11

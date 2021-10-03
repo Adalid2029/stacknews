@@ -1,0 +1,92 @@
+a{
+	color : black;
+}
+.jumbotron.container{
+	height: 10px;
+}
+
+/*
+header
+*/
+
+.navbar{
+	margin-bottom: 0;	
+}
+
+.jumbotron{
+	/*background: #0f5961;*/
+	background: #334992;
+	color: #FFF;
+	padding-bottom: 4px;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 0;
+}
+
+.jumbotron .titulo-blog{
+	font-size: 50px;
+}
+
+.navbar-inverse{
+	background-color: #042b2f;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+	background-color: #1a3f5d;
+}/*post*/
+
+.main{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.post{
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #999;
+}
+
+.post .post-title a{
+	color: #333;
+}
+
+.post .thumb{
+	margin-right: 10px;
+	width:40%;
+}
+
+.post .thumb img{
+	width: 100%;
+}
+
+.post .contenedor-botones{
+	width: 100%;
+}
+
+/*Media Query*/
+
+@media screen and (max-width: 768px){
+	.post .thumb{
+		width: 100%;
+		margin-bottom: 20px;
+		margin-right: 0;
+	}
+}
+
+.jumbotron .container .text-cat-jumb i{
+	font-size: 14px;
+}
+
+.modal-body .rel_clos{
+	padding-right: 14px;
+	padding-top:5px;
+}
+
+.rel_body{
+	padding: 0;
+}
+
+.form-group .rel_button{
+    margin-right: 5px;
+    margin-left: 5px;
+}
